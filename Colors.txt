@@ -1,3 +1,3 @@
-Red-Blue
-White
-Green
+Blue
+Blue
+Blue
