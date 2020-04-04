@@ -1,3 +1,1 @@
-Red-Blue
-White
-Green
+Completely differen kind of file.
